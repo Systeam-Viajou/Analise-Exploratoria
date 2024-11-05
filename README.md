@@ -27,7 +27,7 @@ git clone https://github.com/Systeam-Viajou/Analise-Exploratoria.git
 
 3. Execute os scripts/notebooks conforme a necessidade para realizar a raspagem, tratamento e análise dos dados.
 
-#### Desenvolvido com dedicação pela equipe de análise de dados *Systeam-Viajou*:
+#### Desenvolvido com dedicação pela equipe de análise de dados *Systeam*:
 
 - [Gabriel Costa](https://github.com/gbrlscosta)
 - [Gabrieli Oliveira](https://github.com/gabrieliolveira)
