@@ -4,6 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 import unicodedata
+from ydata_profiling import ProfileReport
+
 
 # Função para normalizar os nomes das cidades
 def normalize_city_names(cities_list):
